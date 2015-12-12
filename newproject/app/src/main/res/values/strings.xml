@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo Application with Menus</string>
+    <string name="add_text">Add</string>
+    <string name="todo_text_hint">Enter Todo Task</string>
+    <string name="todo_dialog_title">New Todo Item</string>
+    <string name="todo_dialog_ok">OK</string>
+    <string name="todo_dialog_cancel">Cancel</string>
+</resources>
